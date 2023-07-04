@@ -1,0 +1,6 @@
+div{
+    background-color: aqua;
+    border: 10px solid rgb(227, 18, 18);
+    border-radius: 10px;
+    border-bottom: none;
+}
